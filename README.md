@@ -68,17 +68,17 @@ Restaurant Reviews Analyser - Review polarity prediction
 
 ## Algorithm of Project:
 
-Step 1: 	Collection of data
-Step 2: 	Prepare Data (Preprocessing) - This process is also called data analysis
-		 - Cleaning Data
-		 - Manipulating Data
-		 - Scaling Data
-Step 3: 	Initialize Algorithm or Model
-Step 4: 	Train the Model (Formula Building and train the model)
-Step 5: 	Test the Model (Testing data set)
-Step 6: 	Make Prediction of unknown data of same object
-Step 7: 	Model Evaluation
-Step 8: 	Model Deployment
+•	Step 1: 	Collection of data
+•	Step 2: 	Prepare Data (Preprocessing) - This process is also called data analysis
+				- Cleaning Data
+				- Manipulating Data
+				- Scaling Data
+•	Step 3: 	Initialize Algorithm or Model
+•	Step 4: 	Train the Model (Formula Building and train the model)
+•	Step 5: 	Test the Model (Testing data set)
+•	Step 6: 	Make Prediction of unknown data of same object
+•	Step 7: 	Model Evaluation
+•	Step 8: 	Model Deployment
 
 ## Future of Sentiment Analysis:
 
